@@ -1,0 +1,2 @@
+23 */16 * * * /home/app/get_dawn.sh >/dev/null
+* * * * * /home/app/turn_on.sh >/dev/null
